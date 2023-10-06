@@ -5,6 +5,14 @@
 - 🚀 En constante aprendizaje y construyendo mi camino en el mundo del código.
 - 🌐 Puedes encontrarme en mi [Blog Personal](https://joyelocode.github.io/blog/) donde comparto mis proyectos y aprendizajes.
 - 🔧 Las tecnologías en las que me estoy especializando actualmente son:
+
+<div style="display: inline-block;">
+  <a href="#"><img src="https://img.shields.io/badge/-Ubuntu%20Terminal-333333?style=for-the-badge&logo=ubuntu&logoColor=F37626"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-WSL-333333?style=for-the-badge&logo=ubuntu&logoColor=F37626"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</div>
   - [![Ubuntu Terminal](https://img.shields.io/badge/-Ubuntu%20Terminal-333333?style=for-the-badge&logo=ubuntu&logoColor=F37626)]()
   - [![Windows Subsystem for Linux (WSL)](https://img.shields.io/badge/-WSL-333333?style=for-the-badge&logo=ubuntu&logoColor=F37626)]()
   - [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
