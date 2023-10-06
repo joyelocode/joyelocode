@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy [José Yesid López]
+### ¡Hola! 👋 Soy [José Yesid López]()
 
 - 🎓 Estudiante de desarrollo web en [Platzi](https://platzi.com/p/Joyelocode/).
 - 💻 Apasionado por el mundo del desarrollo web y las tecnologías emergentes.
